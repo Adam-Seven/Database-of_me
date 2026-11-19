@@ -51,10 +51,8 @@ I'm an IT Student studying in NU and very interested in Cybersecurity and Networ
 
 ## ⚡ Fun Fact About Me:
 
-- 💡
-- 🖥️I used to change the color of the command promt into **green** to make me look like a Hacker.😅   
-- 🌙 I enjoy coding after I took a sip of black coffee in the night.      
--  Flag: United Kingdo  have a bestfriend who is an Indian. 💁‍♂️ 
+- 💡 I love playing games.      
+- 🍵 I have a friend whose British. 
     
 
 ---
@@ -62,7 +60,7 @@ I'm an IT Student studying in NU and very interested in Cybersecurity and Networ
 ## 📞 Click Below to Connect with Me!   
 
 <p align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aaquino24-0196@cca.edu.ph" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sorianoav@students.nu-clark.edu.ph" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
   </a>
   &nbsp;&nbsp;
