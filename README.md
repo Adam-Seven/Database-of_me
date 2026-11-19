@@ -34,18 +34,6 @@ I'm an IT Student studying in NU and very interested in Cybersecurity and Networ
 ---
 
 ### 🎓 FINALS  
-[Final Lab Task #1](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Final%20Lab%20Task/FinalsLabtask%231_AaronAquino.pdf) - Encapsulation
-
-[Final Lab Task #2](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Final%20Lab%20Task/FinalsLabTask%232_AaronAquino.pdf) - Inheritance
-
-[Final Lab Task #3](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Final%20Lab%20Task/FinalsLabTask%20%233_AaronAquino.pdf) - Polymorphism
-
-[Final Lab Task #4](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Final%20Lab%20Task/FinalsLabTask%234_AaronAquino.pdf) - Python and Tkinter GUI program
-
-[Final Lab Task #5](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Final%20Lab%20Task/FinalsLabTask%235_AquinoAaron.pdf) - CRUD CLI using Pythong and MySQL
-
-[Final Lab Task #6](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Final%20Lab%20Task/FinalsLabtask%236_AaronAquino.pdf) - MySQL and Tkinter HUI
-
 
 --- 
 
