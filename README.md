@@ -21,15 +21,9 @@ I'm an IT Student studying in NU and very interested in Cybersecurity and Networ
 ### 🧪 MIDTERM 
 0(https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Paired%20Task_1.pdf) - Object Oriented Analysis
 
-[Midterm Lab Task #1](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%201_Aaron%20Aquino.pdf) - Escape Sequence, Type Specifiers, Accept User Input and Day Identifier
+[Midterm Lab Task #1](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%201_Aaron%20Aquino.pdf) - 2D Array
 
-[Midterm Lab Task #2](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%202_AaronAquino.pdf) - Using Loops and Functions
-
-[Midterm Lab Task #3](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%203_Aaron%20Aquino.pdf) - Using List Collections
-
-[Midterm Lab Task #4](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%204_AaronAquino..pdf) - Using Dictionary Collections
-
-[Midterm Lab Task #5](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%205_AaronAquino..pdf) - Creating Class and Instantiating Objects in Python
+[Midterm Lab Task #2](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%202_AaronAquino.pdf) - 3D Array
 
 ---
 
