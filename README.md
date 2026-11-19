@@ -1,141 +1,84 @@
-# Project Name
 
-> A short and clear description of what your project does.
+<p align="center">
+  <img src=""/>
+</p>
+<p align="center">
+Hello! I'm Aaron ... 😃
+  </p>
 
-## 📖 Overview
+## 🌟 About Me
+I’m someone who can balance both being outgoing and introverted. I enjoy connecting with others when the situation calls for it, but I also value time alone to think deeply and recharge. I naturally approach challenges like a programmer debugging code, breaking problems down, analyzing them, and finding the most effective solution. Being a problem solver and solution provider is at the core of who I am; I don’t just look for quick fixes, I look for sustainable answers.
 
-This project was developed to solve a specific problem or demonstrate a particular concept. It aims to provide users with an efficient and user-friendly solution.
 
-## ✨ Features
-
-- Feature 1
-- Feature 2
-- Feature 3
-- Responsive design
-- Easy-to-use interface
-
-## 🛠️ Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap / Tailwind CSS
-- PHP / Python / Node.js
-- MySQL / MongoDB
-
-## 📂 Project Structure
-
-```text
-project-name/
-│
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-├── images/
-├── assets/
-└── README.md
-```
-
-## 🚀 Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/project-name.git
-```
-
-2. Navigate to the project folder:
-
-```bash
-cd project-name
-```
-
-3. Install dependencies (if applicable):
-
-```bash
-npm install
-```
-
-4. Run the project:
-
-```bash
-npm start
-```
-
-## 📸 Screenshots
-
-Add screenshots of your application here.
-
-```md
-screenshots/homepage.png
-```
-
-## 💡 Usage
-
-1. Open the application.
-2. Follow the on-screen instructions.
-3. Use the available features to achieve your desired task.
-
-## 🎯 Objectives
-
-- Improve efficiency
-- Enhance user experience
-- Demonstrate software development skills
-- Apply concepts learned in coursework
-
-## 🧪 Testing
-
-To run tests:
-
-```bash
-npm test
-```
-
-## 🤝 Contributing
-
-Contributions are welcome.
-
-1. Fork the repository
-2. Create a new branch
-
-```bash
-git checkout -b feature/new-feature
-```
-
-3. Commit your changes
-
-```bash
-git commit -m "Add new feature"
-```
-
-4. Push the branch
-
-```bash
-git push origin feature/new-feature
-```
-
-5. Open a Pull Request
-
-## 📝 Future Enhancements
-
-- Add more features
-- Improve performance
-- Enhance security
-- Add mobile support
-
-## 👨‍💻 Author
-
-**Arvee Gabriel V. Soriano**
-
-- GitHub: https://github.com/your-username
-- Email: your-email@example.com
-
-## 📄 License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
+- Artificial Intelligence / Machine Learning. 🤖
+- Software Engineering / Systems Design. 👨🏻‍💻
+- Game Development (e.g., Roblox, Unity, Unreal) 🎮
 
 ---
 
-⭐ If you find this project useful, please consider giving it a star!
+## Programming Languages
+- Java ♨️
+- C Languange 🇨
+- Python 🇵🇾
+
+---
+
+## 💻 My Projects  
+
+### 🧪 MIDTERM 
+0(https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Paired%20Task_1.pdf) - Object Oriented Analysis
+
+[Midterm Lab Task #1](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%201_Aaron%20Aquino.pdf) - Escape Sequence, Type Specifiers, Accept User Input and Day Identifier
+
+[Midterm Lab Task #2](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%202_AaronAquino.pdf) - Using Loops and Functions
+
+[Midterm Lab Task #3](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%203_Aaron%20Aquino.pdf) - Using List Collections
+
+[Midterm Lab Task #4](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%204_AaronAquino..pdf) - Using Dictionary Collections
+
+[Midterm Lab Task #5](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%205_AaronAquino..pdf) - Creating Class and Instantiating Objects in Python
+
+---
+
+### 🎓 FINALS  
+[Final Lab Task #1](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Final%20Lab%20Task/FinalsLabtask%231_AaronAquino.pdf) - Encapsulation
+
+[Final Lab Task #2](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Final%20Lab%20Task/FinalsLabTask%232_AaronAquino.pdf) - Inheritance
+
+[Final Lab Task #3](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Final%20Lab%20Task/FinalsLabTask%20%233_AaronAquino.pdf) - Polymorphism
+
+[Final Lab Task #4](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Final%20Lab%20Task/FinalsLabTask%234_AaronAquino.pdf) - Python and Tkinter GUI program
+
+[Final Lab Task #5](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Final%20Lab%20Task/FinalsLabTask%235_AquinoAaron.pdf) - CRUD CLI using Pythong and MySQL
+
+[Final Lab Task #6](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Final%20Lab%20Task/FinalsLabtask%236_AaronAquino.pdf) - MySQL and Tkinter HUI
+
+
+--- 
+
+## ⚡ Fun Fact About Me:
+
+- 💡 I hate **semicolons**. 😠  
+- 🖥️I used to change the color of the command promt into **green** to make me look like a Hacker.😅   
+- 🌙 I enjoy coding after I took a sip of black coffee in the night.      
+- 🛑 I have a bestfriend who is an Indian. 💁‍♂️ 
+    
+
+---
+
+## 📞 Click Below to Connect with Me!   
+
+<p align="left">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aaquino24-0196@cca.edu.ph" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/aaronaquino123/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/ayay.ron0/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+</p>
