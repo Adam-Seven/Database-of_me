@@ -20,7 +20,7 @@ I'm an IT Student studying in NU and very interested in Cybersecurity and Networ
 
 ### 🧪 MIDTERM 1 - Object Oriented Analysis
 
-[Midterm Lab Task #1]() - 2D Array
+[Midterm Lab Task #1](https://github.com/Adam-Seven/Database-of_me/blob/main/lab%20task%201/Laboratory%20task%201.pdf) - 2D Array
 
 [Midterm Lab Task #2](https://github.com/Adam-Seven/Database-of_me/blob/main/lab%20task%201/Laboratory%20task%20%202.pdf) - 3D Array
 
