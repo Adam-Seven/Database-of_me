@@ -20,7 +20,7 @@ I'm an IT Student studying in NU and very interested in Cybersecurity and Networ
 
 ### 🧪 MIDTERM 0(https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Paired%20Task_1.pdf) - Object Oriented Analysis
 
-[Midterm Lab Task #1][(https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%201_Aaron%20Aquino.pdf)](https://nationalueduph-my.sharepoint.com/personal/sorianoav_students_nu-clark_edu_ph/Documents/Laboratory%20task%20template%20-%20Copy.pdf) - 2D Array
+[Midterm Lab Task #1](https://github.com/Adam-Seven/Database-of_me/blob/main/lab%20task%201/Laboratory%20task%20template%20-%20Copy.pdf) - 2D Array
 
 [Midterm Lab Task #2](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%202_AaronAquino.pdf) - 3D Array
 
