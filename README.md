@@ -1,8 +1,5 @@
 
 <p align="center">
-  <img src=""/>
-</p>
-<p align="center">
 GDA'Y WELCOME TO MY PROFILE
   </p>
 
