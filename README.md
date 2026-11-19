@@ -9,16 +9,10 @@ GDA'Y WELCOME TO MY PROFILE
 ## 🌟 About Me
 I'm an IT Student studying in NU and very interested in Cybersecurity and Networking
 
-- Artificial Intelligence / Machine Learning. 🤖
-- Software Engineering / Systems Design. 👨🏻‍💻
-- Game Development (e.g., Roblox, Unity, Unreal) 🎮
-
 ---
 
 ## Programming Languages
 - Java ♨️
-- C Languange 🇨
-- Python 🇵🇾
 
 ---
 
@@ -57,10 +51,10 @@ I'm an IT Student studying in NU and very interested in Cybersecurity and Networ
 
 ## ⚡ Fun Fact About Me:
 
-- 💡 I hate **semicolons**. 😠  
+- 💡
 - 🖥️I used to change the color of the command promt into **green** to make me look like a Hacker.😅   
 - 🌙 I enjoy coding after I took a sip of black coffee in the night.      
-- 🛑 I have a bestfriend who is an Indian. 💁‍♂️ 
+-  Flag: United Kingdo  have a bestfriend who is an Indian. 💁‍♂️ 
     
 
 ---
